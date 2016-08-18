@@ -1,2 +1,2 @@
 # IoCAutofac
-An example of usage and IoC Autofac with a MVC and WCF project.
+Using Autofac in a WCF and MVC project.
